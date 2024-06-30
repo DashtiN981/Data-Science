@@ -1,2 +1,2 @@
-# Data-Science
- This repository contains sample codes of a data science bootcamp
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
